@@ -64,6 +64,13 @@
   color:#000000;
   text-align:left;
 }
+.connector {
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#000000;
+}
 .form_hint {
   color:#999999;
 }
